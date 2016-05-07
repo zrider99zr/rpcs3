@@ -854,6 +854,12 @@
     <ClCompile Include="Emu\IdManager.cpp">
       <Filter>Emu</Filter>
     </ClCompile>
+    <ClCompile Include="..\Utilities\version.cpp">
+      <Filter>Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="rpcs3_version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Crypto\aes.h">
@@ -1617,6 +1623,12 @@
     </ClInclude>
     <ClInclude Include="..\Utilities\BitSet.h">
       <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Utilities\version.h">
+      <Filter>Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="rpcs3_version.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
