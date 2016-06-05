@@ -1624,5 +1624,8 @@
     <ClInclude Include="..\Utilities\sync.h">
       <Filter>Utilities</Filter>
     </ClInclude>
+    <ClInclude Include="Emu\Cell\PPUAnalyser.h">
+      <Filter>Emu\Cell</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
